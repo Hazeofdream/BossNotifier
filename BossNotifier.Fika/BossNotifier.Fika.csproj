@@ -16,35 +16,34 @@
   <!-- Riferimenti -->
   <ItemGroup>
     <Reference Include="Assembly-CSharp">
-      <HintPath>E:\Spt\EscapeFromTarkov_Data\Managed\Assembly-CSharp.dll</HintPath>
+      <HintPath>C:\Users\Haze_of_dream\AppData\Roaming\SPT 4\EscapeFromTarkov_Data\Managed\Assembly-CSharp.dll</HintPath>
       <Private>false</Private>
     </Reference>
     <Reference Include="Comfort">
-      <HintPath>E:\Spt\EscapeFromTarkov_Data\Managed\Comfort.dll</HintPath>
-      <Private>false</Private>
-    </Reference>
-    <Reference Include="UnityEngine">
-      <HintPath>E:\Spt\EscapeFromTarkov_Data\Managed\UnityEngine.dll</HintPath>
-      <Private>false</Private>
-    </Reference>
-    <Reference Include="UnityEngine.CoreModule">
-      <HintPath>E:\Spt\EscapeFromTarkov_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
-      <Private>false</Private>
-    </Reference>
-    <Reference Include="BepInEx">
-      <HintPath>E:\Spt\BepInEx\core\BepInEx.dll</HintPath>
-      <Private>false</Private>
-    </Reference>
-    <Reference Include="0Harmony">
-      <HintPath>E:\Spt\BepInEx\core\0Harmony.dll</HintPath>
+      <HintPath>C:\Users\Haze_of_dream\AppData\Roaming\SPT 4\EscapeFromTarkov_Data\Managed\Comfort.dll</HintPath>
       <Private>false</Private>
     </Reference>
     <Reference Include="Fika.Core">
-      <HintPath>E:\Spt\BepInEx\plugins\Fika\Fika.Core.dll</HintPath>
+      <HintPath>..\..\..\SPT 4\BepInEx\plugins\Fika\Fika.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>C:\Users\Haze_of_dream\AppData\Roaming\SPT 4\EscapeFromTarkov_Data\Managed\UnityEngine.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>C:\Users\Haze_of_dream\AppData\Roaming\SPT 4\EscapeFromTarkov_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="BepInEx">
+      <HintPath>C:\Users\Haze_of_dream\AppData\Roaming\SPT 4\BepInEx\core\BepInEx.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="0Harmony">
+      <HintPath>C:\Users\Haze_of_dream\AppData\Roaming\SPT 4\BepInEx\core\0Harmony.dll</HintPath>
       <Private>false</Private>
     </Reference>
     <Reference Include="spt-reflection">
-      <HintPath>E:\Spt\BepInEx\plugins\spt\spt-reflection.dll</HintPath>
+      <HintPath>C:\Users\Haze_of_dream\AppData\Roaming\SPT 4\BepInEx\plugins\spt\spt-reflection.dll</HintPath>
       <Private>false</Private>
     </Reference>
   </ItemGroup>

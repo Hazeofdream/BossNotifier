@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = BossNotifier.Fika
+build_property.ProjectDir = C:\Users\Haze_of_dream\AppData\Roaming\SPT Plugin Development\BossNotifier\BossNotifier.Fika\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

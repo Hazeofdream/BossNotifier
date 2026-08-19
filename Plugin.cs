@@ -14,7 +14,6 @@ using System;
 using HarmonyLib;
 using System.Linq;
 
-
 #pragma warning disable IDE0051 // Remove unused private members
 
 namespace BossNotifier
